@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-hi this is third file
->>>>>>> 4c6ff67c2a8686eebbb9f190ae917c5dd42db474
+hi iam dhivya
